@@ -1,1 +1,1 @@
-export const chainName = `[sepolia, arbitrumSepolia, optimismSepolia]`;
+export const chainName = `sepolia, arbitrumSepolia, optimismSepolia`;
